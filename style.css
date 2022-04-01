@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    font-weight: 600;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 15px;
+    background-color: #000;
+    color: #fff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0;
+    font-weight: 600;
+    cursor:pointer;
+    letter-spacing: 0.5px;
+    margin-top: 40vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
